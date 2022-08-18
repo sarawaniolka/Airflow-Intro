@@ -1,0 +1,6 @@
+A CRON expression is a string comprising five fields separated by white space that represents a set of times.
+Normally as a schedule to execute some routine.
+
+minute hour day months day(week)
+
+presets: None, @once, @hourly, @daily, @weekly, @monthly, @yearly
